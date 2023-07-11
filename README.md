@@ -1,6 +1,6 @@
-# h2o3-demo-ieee-uoj
+# h2o3-demo
 
-Demo notebooks created for "GlanceUp-2022" organized by IEEE SB University of Jaffna, in collaboration with H2O.ai. 
+Demo notebooks for H2O3 and H2O AutoML. 
 
 ## Run demo notebooks locally
 
